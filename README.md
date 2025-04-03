@@ -66,7 +66,9 @@
 </div>
 
 ---
-
-
+<div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mraxays&layout=compact)](https://github.com/mraxays)
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=mraxays&hide_border=true&border_radius=4.7)](https://github.com/mraxays)
+</div>
+
