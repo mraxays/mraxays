@@ -64,3 +64,9 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a> -->
 </div>
+
+---
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mraxays&layout=compact)](https://github.com/mraxays)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=mraxays&hide_border=true&border_radius=4.7)](https://github.com/mraxays)
