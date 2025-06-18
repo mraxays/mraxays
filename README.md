@@ -1,6 +1,6 @@
-##
 
-<h1 align="center">Hey 👋, I'm Akshay Shinde</h1>
+![axaytech](https://github.com/user-attachments/assets/8febc569-1f96-406c-af40-dfce3c6b0b9f)
+
 
 ###
 
