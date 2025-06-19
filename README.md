@@ -44,10 +44,10 @@
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-FCCC00?style=flat-square&logo=davinci-resolve&logoColor=black)
 
 ##
-
+<div align="center">
 ## 🔗 Connect with Me
-
-<div align="left">
+</div>
+<div align="center">
   <a href="https://www.linkedin.com/in/mraxays/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -65,8 +65,10 @@
   </a> -->
 </div>
 
+
+<!--
 ---
-<!--<div align="center">
+<div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mraxays&layout=compact)](https://github.com/mraxays)
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=mraxays&hide_border=true&border_radius=4.7)](https://github.com/mraxays)
