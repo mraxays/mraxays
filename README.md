@@ -66,10 +66,10 @@
 </div>
 
 ---
-<div align="center">
+<!--<div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mraxays&layout=compact)](https://github.com/mraxays)
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=mraxays&hide_border=true&border_radius=4.7)](https://github.com/mraxays)
 </div>
-<p align="left"> <a href="https://github.com/mraxays"><img src="https://github-profile-trophy.vercel.app/?username=mraxays" alt="mraxays" /></a> </p>
+<p align="left"> <a href="https://github.com/mraxays"><img src="https://github-profile-trophy.vercel.app/?username=mraxays" alt="mraxays" /></a> </p> -->
 
