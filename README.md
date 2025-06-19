@@ -16,7 +16,8 @@
 
 ## 🛠️ Languages and Tools
 </div>
-
+<div align="center"> 
+  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -43,11 +44,16 @@
 ![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-FCCC00?style=flat-square&logo=davinci-resolve&logoColor=black)
 
+</div>
+
+
 ##
 <div align="center">
+  
 ## 🔗 Connect with Me
 </div>
-##
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/mraxays/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
