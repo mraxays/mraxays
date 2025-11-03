@@ -1,6 +1,4 @@
-
 ![axaytech](https://github.com/user-attachments/assets/8febc569-1f96-406c-af40-dfce3c6b0b9f)
-
 
 ###
 
@@ -15,6 +13,7 @@
 <div align="center">
 
 ## 🛠️ Languages and Tools
+
 </div>
 <div align="center"> 
   
@@ -30,8 +29,8 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<!-- ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) -->
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -46,13 +45,12 @@
 
 </div>
 
-
 ##
+
 <div align="center">
   
 ## 🔗 Connect with Me
 </div>
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mraxays/" target="_blank">
@@ -72,13 +70,11 @@
   </a> -->
 </div>
 
+## <!--
 
-<!--
----
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mraxays&layout=compact)](https://github.com/mraxays)
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=mraxays&hide_border=true&border_radius=4.7)](https://github.com/mraxays)
 </div>
 <p align="left"> <a href="https://github.com/mraxays"><img src="https://github-profile-trophy.vercel.app/?username=mraxays" alt="mraxays" /></a> </p> -->
-
