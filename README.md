@@ -62,7 +62,7 @@
   <a href="mailto:akshay@auss.in?subject=Hello%20Akshay&body=Hi%20Akshay,%0A%0A" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="mailto:akshay@axay.tech?subject=Hello%20Akshay&body=Hi%20Akshay,%0A%0A" target="_blank">
+  <a href="mailto:akshay@axay.dev?subject=Hello%20Akshay&body=Hi%20Akshay,%0A%0A" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 
@@ -70,8 +70,3 @@
 
 ##
 
-<div align="center">
-
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=mraxays&hide_border=true&border_radius=4.7)](https://github.com/mraxays)
-</div>
-<p align="left"> <a href="https://github.com/mraxays"><img src="https://github-profile-trophy.vercel.app/?username=mraxays" alt="mraxays" /></a> </p>
