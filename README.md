@@ -1,5 +1,5 @@
 ![axaytech](https://github.com/user-attachments/assets/8febc569-1f96-406c-af40-dfce3c6b0b9f)
-
+<!--
 ###
 
 <h4 align="center">👨‍💻 Fullstack Developer | 🎨 Graphic Designer | ✒️ Logo Designer | 🖌️ UI/UX Enthusiast</h4>
@@ -40,8 +40,7 @@
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
 ![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-FCCC00?style=flat-square&logo=davinci-resolve&logoColor=black)
-<!-- ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) -->
+
 
 </div>
 
@@ -69,4 +68,4 @@
 </div>
 
 ##
-
+ -->
