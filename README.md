@@ -3,7 +3,7 @@
 ```javascript
 const akshayProfile = {
   identity: {
-    name: "Akshay Uddhav Shinde",
+    name: "Akshay Shinde",
     role: "Full-Stack Software Engineer",
     bio: "Versatile developer focused on clean code, performance, and user-centric design.",
     email: "akshay@axay.dev",
