@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://axay.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=about.me&label=&color=4AB1FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=4AB1FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
   </a>
     <a href="mailto:akshay@axay.dev?subject=Hello%20Akshay&body=Hi%20Akshay,%0A%0A" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
