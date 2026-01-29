@@ -7,9 +7,13 @@ const akshayProfile = {
     role: "Full-Stack Software Engineer",
     bio: "Versatile developer focused on clean code, performance, and user-centric design.",
     email: "akshay@axay.dev",
+    location: "Maharashtra, India",
     socials: {
+      username: "mraxays",
       portfolio: "https://axay.dev/",
       linkedin: "https://www.linkedin.com/in/mraxays/",
+      github: "https://github.com/mraxays",
+      twitter: "https://twitter.com/mraxays",
     },
   },
 
