@@ -8,14 +8,22 @@ const akshayProfile = {
     bio: "Versatile developer focused on clean code, performance, and user-centric design.",
     email: "akshay@axay.dev",
     location: "Maharashtra, India",
+
     socials: {
       username: "mraxays",
       portfolio: "https://axay.dev/",
       linkedin: "https://www.linkedin.com/in/mraxays/",
-      github: "https://github.com/mraxays",
-      twitter: "https://twitter.com/mraxays",
+      github: "https://github.com/mraxays"
     },
   },
+
+  exprerience: [
+    {
+      position: "Junior Full-Stack Developer",
+      company: "TechHomage Technologies",
+      duration: "Oct 2023 – Present"
+    }
+  ],
 
   skills: {
     languages: ["JavaScript (ES6+)", "PHP", "HTML5", "CSS3"],
@@ -33,6 +41,7 @@ const akshayProfile = {
     );
   },
 };
+
 ```
 
 
