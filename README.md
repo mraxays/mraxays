@@ -22,7 +22,7 @@ const akshayProfile = {
     frontend: ["React.js", "Tailwind CSS", "Bootstrap", "Redux"],
     backend: ["Node.js", "Express.js", "Laravel", "CodeIgniter"],
     database: ["MySQL", "MongoDB"],
-    tools: ["Git", "Postman", "Vercel", "VPS (Hostinger)", "Cloudflare"],
+    tools: ["Git", "Postman", "Vercel", "VPS", "Cloudflare"],
   },
 
   learning: ["TypeScript", "Next.js", "React Native"],
