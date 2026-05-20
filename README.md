@@ -42,7 +42,7 @@ const akshayProfile = {
   ],
 
   skills: {
-    languages: ["JavaScript", "PHP", "HTML5", "CSS3"],
+    languages: ["JavaScript", "PHP"],
     frontend: ["React.js", "Tailwind CSS", "Bootstrap", "Redux"],
     backend: ["Node.js", "Express.js", "Laravel", "CodeIgniter"],
     database: ["MySQL", "MongoDB"],
