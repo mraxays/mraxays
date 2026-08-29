@@ -35,7 +35,7 @@ const akshayProfile = {
 
   exprerience: [
     {
-      position: "Junior Full-Stack Developer",
+      position: "Full Stack Engineer",
       company: "TechHomage Technologies",
       duration: "Oct 2023 – Present",
     },
