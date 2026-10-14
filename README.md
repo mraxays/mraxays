@@ -18,87 +18,32 @@
 
 ```javascript
 const akshayProfile = {
-  identity: {
-    name: "Akshay Shinde",
-    role: "Full-Stack Software Engineer",
-    bio: "Hey, I'm Akshay, a full-stack dev from Maharashtra who loves building useful things for the web. Always shipping, always learning.",
+  name: "Akshay Shinde",
+  role: "Full-Stack Software Engineer",
+  bio: "Hey, I'm Akshay, a full-stack dev from Maharashtra who loves building useful things for the web. Always shipping, always learning.",
+  company: "TechHomage Technologies",
+  location: "Maharashtra, India",
+
+  links: {
+    portfolio: "https://axay.dev/",
+    linkedin: "https://www.linkedin.com/in/mraxays/",
+    github: "https://github.com/mraxays",
     email: "akshay@axay.dev",
-    location: "Maharashtra, India",
-
-    socials: {
-      username: "mraxays",
-      portfolio: "https://axay.dev/",
-      linkedin: "https://www.linkedin.com/in/mraxays/",
-      github: "https://github.com/mraxays",
-    },
   },
-
-  experience: [
-    {
-      position: "Full Stack Engineer",
-      company: "TechHomage Technologies",
-      duration: "Oct 2023 - Present",
-    },
-  ],
 
   skills: {
-    languages: ["JavaScript (ES6+)", "PHP"],
-    frontend: [
-      "React.js",
-      "Redux",
-      "Zustand",
-      "Tailwind CSS",
-      "shadcn/ui",
-      "Bootstrap",
-      "EJS",
-    ],
+    frontend: ["React.js", "Redux", "Zustand", "Tailwind CSS", "shadcn/ui", "Bootstrap"],
     backend: ["Node.js", "Express.js", "Laravel", "CodeIgniter"],
     database: ["MySQL", "MongoDB"],
-    integrations: [
-      "REST APIs",
-      "Razorpay",
-      "Easebuzz",
-      "WhatsApp Business API",
-      "Google APIs",
-    ],
-    tools: [
-      "Git",
-      "GitHub",
-      "Postman",
-      "Figma",
-      "cPanel",
-      "VPS",
-      "CI/CD",
-      "Nginx",
-      "Vercel",
-      "Cloudflare",
-    ],
+    tools: ["Git", "Postman", "Figma", "VPS", "CI/CD", "Nginx", "Vercel", "Cloudflare"],
   },
 
-  openSource: [
-    {
-      name: "Co-Invoice",
-      url: "https://coinvoice.axay.dev",
-      description:
-        "Free invoice generator with 4 templates, 30 Google Fonts, live preview, and PDF/print export",
-      stack: ["React.js", "Vite", "Tailwind CSS", "shadcn/ui", "Zustand"],
-    },
-    {
-      name: "ClipX.js",
-      url: "https://clipx.js.org",
-      install: "npm install clipxjs",
-      description:
-        "Zero-dependency clipboard library with toast notifications and a declarative data-attribute API",
-      stack: ["Vanilla JavaScript", "Clipboard API"],
-    },
-  ],
+  openSource: ["Co-Invoice (coinvoice.axay.dev)", "ClipX.js (clipx.js.org)"],
 
   learning: ["TypeScript", "Next.js", "React Native"],
 
-  status: function () {
-    return (
-      this.identity.role + " currently building pixel-perfect experiences."
-    );
+  status() {
+    return `${this.role} currently building pixel-perfect experiences.`;
   },
 };
 ```
