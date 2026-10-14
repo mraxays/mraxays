@@ -1,7 +1,20 @@
-![axay.dev](https://github.com/user-attachments/assets/8febc569-1f96-406c-af40-dfce3c6b0b9f)
+<div align="center">
 
----
 
+<!-- ascii portrait (left) + streak/numbers card (right). both svgs are
+     840x880 so equal widths give equal heights.
+     portrait: python scripts/prep_photo.py <dp.png> && python scripts/make_ascii_svg.py
+     stats:    python scripts/render_stats_svg.py (same daily workflow) -->
+
+<h3><code>axay@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./avatar-ascii.svg" width="420" alt="Axay — ASCII portrait" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Axay's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+</tr>
+</table>
+<br>
 <div align="center">
   <a href="https://axay.dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=4AB1FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
@@ -14,40 +27,13 @@
   </a>
 </div>
 
----
+---------
 
-```javascript
-const akshayProfile = {
-  name: "Akshay Shinde",
-  role: "Full-Stack Software Engineer",
-  bio: "Hey, I'm Akshay, a full-stack dev from Maharashtra who loves building useful things for the web. Always shipping, always learning.",
-  company: "TechHomage Technologies",
-  location: "Maharashtra, India",
+<br>
+<h3><code>axay@github ~ $ ./contributions.sh</code></h3>
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+<img src="./contrib-heatmap.svg" width="860" alt="Axay's GitHub contribution graph — auto-refreshed daily" />
 
-  links: {
-    portfolio: "https://axay.dev/",
-    linkedin: "https://www.linkedin.com/in/mraxays/",
-    github: "https://github.com/mraxays",
-    email: "akshay@axay.dev",
-  },
-
-  skills: {
-    frontend: ["React.js", "Redux", "Zustand", "Tailwind CSS", "shadcn/ui", "Bootstrap"],
-    backend: ["Node.js", "Express.js", "Laravel", "CodeIgniter"],
-    database: ["MySQL", "MongoDB"],
-    tools: ["Git", "Postman", "Figma", "VPS", "CI/CD", "Nginx", "Vercel", "Cloudflare"],
-  },
-
-  openSource: ["Co-Invoice (coinvoice.axay.dev)", "ClipX.js (clipx.js.org)"],
-
-  learning: ["TypeScript", "Next.js", "React Native"],
-
-  status() {
-    return `${this.role} currently building pixel-perfect experiences.`;
-  },
-};
-```
-
----
-
-📌 _Stay creative and keep coding!_
+<br>
+</div>
