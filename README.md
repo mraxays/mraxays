@@ -21,7 +21,7 @@ const akshayProfile = {
   identity: {
     name: "Akshay Shinde",
     role: "Full-Stack Software Engineer",
-    bio: "Versatile developer focused on clean code, performance, and user-centric design.",
+    bio: "Hey, I'm Akshay, a full-stack dev from Maharashtra who loves building useful things for the web. Always shipping, always learning.",
     email: "akshay@axay.dev",
     location: "Maharashtra, India",
 
@@ -33,21 +33,65 @@ const akshayProfile = {
     },
   },
 
-  exprerience: [
+  experience: [
     {
       position: "Full Stack Engineer",
       company: "TechHomage Technologies",
-      duration: "Oct 2023 – Present",
+      duration: "Oct 2023 - Present",
     },
   ],
 
   skills: {
-    languages: ["JavaScript", "PHP"],
-    frontend: ["React.js", "Tailwind CSS", "Bootstrap", "Redux"],
+    languages: ["JavaScript (ES6+)", "PHP"],
+    frontend: [
+      "React.js",
+      "Redux",
+      "Zustand",
+      "Tailwind CSS",
+      "shadcn/ui",
+      "Bootstrap",
+      "EJS",
+    ],
     backend: ["Node.js", "Express.js", "Laravel", "CodeIgniter"],
     database: ["MySQL", "MongoDB"],
-    tools: ["Git", "Postman", "Vercel", "VPS", "Cloudflare"],
+    integrations: [
+      "REST APIs",
+      "Razorpay",
+      "Easebuzz",
+      "WhatsApp Business API",
+      "Google APIs",
+    ],
+    tools: [
+      "Git",
+      "GitHub",
+      "Postman",
+      "Figma",
+      "cPanel",
+      "VPS",
+      "CI/CD",
+      "Nginx",
+      "Vercel",
+      "Cloudflare",
+    ],
   },
+
+  openSource: [
+    {
+      name: "Co-Invoice",
+      url: "https://coinvoice.axay.dev",
+      description:
+        "Free invoice generator with 4 templates, 30 Google Fonts, live preview, and PDF/print export",
+      stack: ["React.js", "Vite", "Tailwind CSS", "shadcn/ui", "Zustand"],
+    },
+    {
+      name: "ClipX.js",
+      url: "https://clipx.js.org",
+      install: "npm install clipxjs",
+      description:
+        "Zero-dependency clipboard library with toast notifications and a declarative data-attribute API",
+      stack: ["Vanilla JavaScript", "Clipboard API"],
+    },
+  ],
 
   learning: ["TypeScript", "Next.js", "React Native"],
 
